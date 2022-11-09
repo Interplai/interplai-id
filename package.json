@@ -1,0 +1,23 @@
+{
+  "name": "interplai-id",
+  "version": "1.0.0",
+  "description": "Repository to generate the Interplai Ids",
+  "main": "generate-id.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Interplai/interplai-id.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Interplai/interplai-id/issues"
+  },
+  "homepage": "https://github.com/Interplai/interplai-id#readme",
+  "dependencies": {
+    "mongoose": "^6.7.2"
+  }
+}
